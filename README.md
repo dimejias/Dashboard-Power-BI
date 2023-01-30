@@ -1,4 +1,6 @@
 # Power-BI, Dashboard Análisis Comercial
+Análisis Comercial.
+
 La empresa en la que actualmente trabaja lleva la construcción de sus reportes de manera totalmente manual, descargando regularmente extensas sabanas de datos en Excel desde diversos orígenes de datos. Esto ocasiona ineficientes flujos de trabajo en los colaboradores ya que parte del tiempo que destinan en descargar, adaptar y construir los informes perfectamente lo podrían estar destinando a gestiones clave que aporten valor al negocio.
 
 Actualmente se desempeña como analista en control de gestión, pero considerando que 
